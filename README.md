@@ -1,177 +1,122 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2300F0FF&size=24&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+Engineer+%7C+AI+%7C+DeFi;Building+autonomous+systems+that+print;Rust+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Solidity;1000%2B+integrations+%7C+Multi-chain+%7C+AI+Agents;Always+shipping+%F0%9F%9A%80" />
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=alsk1992&color=00f0ff&style=flat-square&label=PROFILE+VIEWS" />
-<a href="https://twitter.com/6to7Figs"><img src="https://img.shields.io/twitter/follow/6to7Figs?style=flat-square&color=00f0ff&labelColor=000&logo=x&logoColor=white&label=𝕏" /></a>
-<img src="https://img.shields.io/github/followers/alsk1992?style=flat-square&color=00f0ff&labelColor=000&logo=github&label=Follow" />
-<img src="https://img.shields.io/github/stars/alsk1992?style=flat-square&color=00ff88&labelColor=000&logo=github&label=Stars" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00f0ff&height=200&section=header&text=ALSK&fontSize=80&fontColor=00f0ff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Web3&descSize=18&descColor=e4e4ed&descAlignY=55&animation=fadeIn" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=I+build+AI+agents+that+operate+across+1000%2B+markets;Rust+systems+%E2%80%A2+React+frontends+%E2%80%A2+Solana+programs;From+idea+to+production+in+hours%2C+not+months)](https://github.com/alsk1992)
 
 <br>
 
-## `> cat /etc/identity`
+[![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
+[![GitHub](https://img.shields.io/badge/-alsk1992-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992)
+![Views](https://komarev.com/ghpvc/?username=alsk1992&color=00f0ff&style=for-the-badge&label=VIEWS)
 
-```rust
-/// Full stack engineer building at the intersection of AI, finance, and web3.
-/// From low-level Rust systems to polished React frontends —
-/// if it can be automated, optimized, or made autonomous, I'll build it.
-
-struct Engineer {
-    name:       &'static str,  // "ALSK"
-    role:       &'static str,  // "Full Stack Engineer & Systems Architect"
-    languages:  [&str; 6],     // ["Rust", "TypeScript", "Python", "Solidity", "Go", "SQL"]
-    frontend:   [&str; 5],     // ["React", "Next.js", "Tailwind", "Framer Motion", "WebSockets"]
-    backend:    [&str; 6],     // ["Node.js", "Express", "Actix-web", "tRPC", "GraphQL", "REST"]
-    databases:  [&str; 4],     // ["PostgreSQL", "Redis", "SQLite", "MongoDB"]
-    blockchain: [&str; 5],     // ["Solana", "Ethereum", "Polygon", "Anchor", "Hardhat"]
-    infra:      [&str; 5],     // ["AWS", "Docker", "Nginx", "Railway", "Vercel"]
-    ai_ml:      [&str; 4],     // ["Claude API", "RAG pipelines", "LLM agents", "Vector search"]
-    philosophy: &'static str,  // "Ship fast. Automate everything. Let the machines work."
-}
-```
-
-<br>
-
-## Tech Stack
-
-<p align="center">
-  <kbd>
-    <kbd>Languages</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-  </kbd>
-  <kbd>
-    <kbd>Frontend</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
-  </kbd>
-  <kbd>
-    <kbd>Backend</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" />
-  </kbd>
-  <br>
-  <kbd>
-    <kbd>Databases</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />
-  </kbd>
-  <kbd>
-    <kbd>DevOps & Infra</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
-  </kbd>
-  <kbd>
-    <kbd>Web3</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" />
-    <img width="30px" src="https://raw.githubusercontent.com/niconiahi/niconiahi/main/assets/solana.svg" title="Solana" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" title="Polygon" />
-  </kbd>
-</p>
-
-<br>
-
-### Technologies
-
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009639)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
-![WebSocket](https://img.shields.io/badge/-WebSockets-000?&logo=socketdotio)
-![Solana](https://img.shields.io/badge/-Solana-000?&logo=Solana)
-![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-
-### Domains
-
-![](https://img.shields.io/badge/-🤖%20AI%20Agents%20%26%20LLMs-000?style=for-the-badge)
-![](https://img.shields.io/badge/-⛓️%20Multi--Chain%20DeFi-000?style=for-the-badge)
-![](https://img.shields.io/badge/-📊%20Quantitative%20Systems-000?style=for-the-badge)
-![](https://img.shields.io/badge/-⚡%20Real--Time%20Systems-000?style=for-the-badge)
-![](https://img.shields.io/badge/-🔗%20Smart%20Contracts-000?style=for-the-badge)
-![](https://img.shields.io/badge/-🕸️%20Full%20Stack%20Web-000?style=for-the-badge)
-![](https://img.shields.io/badge/-🧠%20RAG%20%2F%20Vector%20Search-000?style=for-the-badge)
-![](https://img.shields.io/badge/-📡%20API%20Architecture-000?style=for-the-badge)
-
-<br>
-
-## Featured Work
-
-<p align="center">
-<a href="https://github.com/alsk1992/CloddsBot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alsk1992&repo=CloddsBot&bg_color=0a0a0f&text_color=e4e4ed&icon_color=00f0ff&title_color=00f0ff&border_color=1e1e30" /></a>
-<a href="https://github.com/alsk1992/Flip-God"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alsk1992&repo=Flip-God&bg_color=0a0a0f&text_color=e4e4ed&icon_color=00f0ff&title_color=00f0ff&border_color=1e1e30" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/alsk1992/SmartPumpTool"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alsk1992&repo=SmartPumpTool&bg_color=0a0a0f&text_color=e4e4ed&icon_color=00f0ff&title_color=00f0ff&border_color=1e1e30" /></a>
-<a href="https://github.com/alsk1992/OREMiner"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alsk1992&repo=OREMiner&bg_color=0a0a0f&text_color=e4e4ed&icon_color=00f0ff&title_color=00f0ff&border_color=1e1e30" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/alsk1992/MecenasAi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alsk1992&repo=MecenasAi&bg_color=0a0a0f&text_color=e4e4ed&icon_color=00f0ff&title_color=00f0ff&border_color=1e1e30" /></a>
-<a href="https://github.com/alsk1992/Ghostbot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alsk1992&repo=Ghostbot&bg_color=0a0a0f&text_color=e4e4ed&icon_color=00f0ff&title_color=00f0ff&border_color=1e1e30" /></a>
-</p>
-
-<br>
-
-## Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alsk1992&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=e4e4ed&icon_color=00f0ff&bg_color=0a0a0f&ring_color=00f0ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsk1992&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=e4e4ed&bg_color=0a0a0f&title_color=00f0ff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsk1992&background=0a0a0f&ring=00f0ff&fire=00ff88&currStreakLabel=00f0ff&sideLabels=e4e4ed&sideNums=e4e4ed&dates=6b6b80&stroke=1e1e30&currStreakNum=e4e4ed&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alsk1992&theme=darkhub&no-frame=true&column=7&margin-w=10" />
-</p>
-
-<br>
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://twitter.com/6to7Figs">
-    <img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://github.com/alsk1992">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### About
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=80&section=footer" width="100%" />
-</p>
+I design and ship **autonomous systems** — AI agents that trade, scrape, arbitrage, and execute across chains and platforms without human intervention. Full stack from bare metal Rust to polished React UIs. I build things that make money while I sleep.
+
+**Currently:** Building [CloddsBot](https://github.com/alsk1992/CloddsBot) — open source AI trading terminal operating across Polymarket, Binance, Hyperliquid, Solana DEXs, and 5 EVM chains.
+
+---
+
+### Stack
+
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
+![Solidity](https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity&logoColor=363636)
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go&logoColor=00ADD8)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**Frontend & UI**
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Framer](https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge&logo=framer&logoColor=0055FF)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=E10098)
+![WebSocket](https://img.shields.io/badge/WebSocket-000?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=FF4438)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+**Blockchain**
+
+![Solana](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=solana&logoColor=9945FF)
+![Ethereum](https://img.shields.io/badge/Ethereum-000?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
+![Polygon](https://img.shields.io/badge/Polygon-000?style=for-the-badge&logo=polygon&logoColor=7B3FE4)
+![Anchor](https://img.shields.io/badge/Anchor-000?style=for-the-badge&logo=anchor&logoColor=white)
+
+**Infra**
+
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000?style=for-the-badge&logo=railway&logoColor=white)
+
+**AI / ML**
+
+![Claude](https://img.shields.io/badge/Claude_API-000?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG_Pipelines-000?style=for-the-badge&logo=chainlink&logoColor=375BD2)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+
+---
+
+### Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|------------|------|
+| **[CloddsBot](https://github.com/alsk1992/CloddsBot)** | AI trading terminal — 1000+ market integrations, autonomous execution across Polymarket, Binance, Hyperliquid, Solana DEXs, 5 EVM chains | `Rust` `TypeScript` `Claude API` |
+| **[Flip-God](https://github.com/alsk1992/Flip-God)** | AI e-commerce arbitrage agent — scans Amazon/eBay/Walmart/AliExpress, finds price gaps, auto-lists, handles fulfillment | `TypeScript` `Node.js` `AI` |
+| **[SmartPumpTool](https://github.com/alsk1992/SmartPumpTool)** | Pump.fun launch toolkit — on-chain tooling for Solana token launches | `Rust` `Solana` |
+| **[OREMiner](https://github.com/alsk1992/OREMiner)** | Solana ORE mining bot with custom strategies | `Rust` `Solana` |
+| **[MecenasAi](https://github.com/alsk1992/MecenasAi)** | AI legal assistant — Bielik LLM + RAG over 7 Polish legal codes, 5,549 articles, court doc drafting | `TypeScript` `Ollama` `RAG` |
+| **[Ghostbot](https://github.com/alsk1992/Ghostbot)** | Autonomous bot framework | `TypeScript` |
+
+</div>
+
+---
+
+### GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alsk1992&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&icon_color=00f0ff&text_color=e4e4ed&border_color=1e1e30&ring_color=00f0ff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsk1992&layout=compact&langs_count=8&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&text_color=e4e4ed&border_color=1e1e30" />
+
+<img src="https://streak-stats.demolab.com?user=alsk1992&theme=github-dark-blue&background=0a0a0f&ring=00f0ff&fire=00ff88&currStreakLabel=00f0ff&sideLabels=e4e4ed&sideNums=e4e4ed&dates=6b6b80&stroke=1e1e30&currStreakNum=e4e4ed&border=1e1e30" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=alsk1992&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to collaboration — if you're building something interesting, reach out.*
+
+[![Twitter](https://img.shields.io/badge/DM%20me%20on%20𝕏-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00f0ff&height=100&section=footer" width="100%" />
+
+</div>
