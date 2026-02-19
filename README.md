@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a1a,100:00f0ff&height=300&section=header&text=ALSK&fontSize=90&fontColor=00f0ff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%A2%20HFT%20Specialist%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Web3&descSize=16&descColor=e4e4ed&descAlignY=62&stroke=00f0ff&strokeWidth=1&animation=scaleIn" width="100%" />
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+HFT+%E2%80%A2+Market+Making+%E2%80%A2+AI+Agents+%E2%80%A2+DeFi;%F0%9F%94%A5+Building+autonomous+systems+across+1000%2B+markets;%F0%9F%A6%80+Rust+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Solana+%E2%80%A2+EVM;%F0%9F%8E%AF+Sub-millisecond+execution.+Zero+human+intervention.;%F0%9F%92%B0+From+signal+to+fill+before+you+blink.)](https://github.com/alsk1992)
+# `A L S K`
+### Full Stack Engineer · HFT Specialist · AI Agents · Smart Contracts
 
 <br>
 
-<a href="https://github.com/alsk1992?tab=repositories"><img src="https://img.shields.io/badge/-%F0%9F%94%A5%20REPOS-000?style=for-the-badge&logoColor=white" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+autonomous+systems+across+1000%2B+markets;Sub-millisecond+execution.+Zero+human+intervention.;From+signal+to+fill+before+you+blink.)](https://github.com/alsk1992)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 [![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 [![GitHub](https://img.shields.io/badge/-alsk1992-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992)
 ![Views](https://komarev.com/ghpvc/?username=alsk1992&color=00f0ff&style=for-the-badge&label=VIEWS)
-
-<img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=alsk1992&data=followers,repositories,stars,commits&theme=darkmode" />
 
 </div>
 
@@ -69,6 +69,7 @@ I design and ship **autonomous systems** — AI agents, HFT engines, and executi
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-000?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-000?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-000?style=for-the-badge&logo=timescale&logoColor=FDB515)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
 **Blockchain**
 
@@ -128,10 +129,6 @@ I design and ship **autonomous systems** — AI agents, HFT engines, and executi
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=alsk1992&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&icon_color=00f0ff&text_color=e4e4ed&border_color=1e1e30&ring_color=00f0ff" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsk1992&layout=compact&langs_count=8&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&text_color=e4e4ed&border_color=1e1e30" />
-
-<img src="https://streak-stats.demolab.com?user=alsk1992&theme=github-dark-blue&background=0a0a0f&ring=00f0ff&fire=00ff88&currStreakLabel=00f0ff&sideLabels=e4e4ed&sideNums=e4e4ed&dates=6b6b80&stroke=1e1e30&currStreakNum=e4e4ed&border=1e1e30" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=alsk1992&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
