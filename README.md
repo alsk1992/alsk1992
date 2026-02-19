@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00f0ff&height=200&section=header&text=ALSK&fontSize=80&fontColor=00f0ff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Web3&descSize=18&descColor=e4e4ed&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00f0ff&height=200&section=header&text=ALSK&fontSize=80&fontColor=00f0ff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20HFT%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Web3&descSize=18&descColor=e4e4ed&descAlignY=55&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=I+build+AI+agents+that+operate+across+1000%2B+markets;Rust+systems+%E2%80%A2+React+frontends+%E2%80%A2+Solana+programs;From+idea+to+production+in+hours%2C+not+months)](https://github.com/alsk1992)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=HFT+%E2%80%A2+Market+Making+%E2%80%A2+AI+Agents+%E2%80%A2+DeFi;Building+autonomous+systems+across+1000%2B+markets;Rust+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Solana+%E2%80%A2+EVM;Sub-millisecond+execution.+Zero+human+intervention.)](https://github.com/alsk1992)
 
 <br>
 
@@ -16,9 +16,9 @@
 
 ### About
 
-I design and ship **autonomous systems** — AI agents that trade, scrape, arbitrage, and execute across chains and platforms without human intervention. Full stack from bare metal Rust to polished React UIs. I build things that make money while I sleep.
+I design and ship **autonomous systems** — AI agents, HFT engines, and execution infrastructure that trade, scrape, arbitrage, and operate across chains and platforms without human intervention. Full stack from bare metal Rust low-latency systems to polished React UIs. Specialist in **high-frequency trading**, market making, and building things that make money while I sleep.
 
-**Currently:** Building [CloddsBot](https://github.com/alsk1992/CloddsBot) — open source AI trading terminal operating across Polymarket, Binance, Hyperliquid, Solana DEXs, and 5 EVM chains.
+**Currently:** Building [CloddsBot](https://github.com/alsk1992/CloddsBot) — open source AI trading terminal operating across Polymarket, Binance, Hyperliquid, Solana DEXs, and 5 EVM chains. 1000+ market integrations, sub-second execution.
 
 ---
 
@@ -30,14 +30,17 @@ I design and ship **autonomous systems** — AI agents that trade, scrape, arbit
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Solidity](https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity&logoColor=363636)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
 **Frontend & UI**
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Framer](https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge&logo=framer&logoColor=0055FF)
 
 **Backend & APIs**
@@ -53,6 +56,10 @@ I design and ship **autonomous systems** — AI agents that trade, scrape, arbit
 ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=FF4438)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-000?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-000?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-000?style=for-the-badge&logo=timescale&logoColor=FDB515)
 
 **Blockchain**
 
