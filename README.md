@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00f0ff&height=200&section=header&text=ALSK&fontSize=80&fontColor=00f0ff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20HFT%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Web3&descSize=18&descColor=e4e4ed&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a1a,100:00f0ff&height=300&section=header&text=ALSK&fontSize=90&fontColor=00f0ff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%A2%20HFT%20Specialist%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Web3&descSize=16&descColor=e4e4ed&descAlignY=62&stroke=00f0ff&strokeWidth=1&animation=scaleIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=HFT+%E2%80%A2+Market+Making+%E2%80%A2+AI+Agents+%E2%80%A2+DeFi;Building+autonomous+systems+across+1000%2B+markets;Rust+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Solana+%E2%80%A2+EVM;Sub-millisecond+execution.+Zero+human+intervention.)](https://github.com/alsk1992)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+HFT+%E2%80%A2+Market+Making+%E2%80%A2+AI+Agents+%E2%80%A2+DeFi;%F0%9F%94%A5+Building+autonomous+systems+across+1000%2B+markets;%F0%9F%A6%80+Rust+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Solana+%E2%80%A2+EVM;%F0%9F%8E%AF+Sub-millisecond+execution.+Zero+human+intervention.;%F0%9F%92%B0+From+signal+to+fill+before+you+blink.)](https://github.com/alsk1992)
 
 <br>
 
+<a href="https://github.com/alsk1992?tab=repositories"><img src="https://img.shields.io/badge/-%F0%9F%94%A5%20REPOS-000?style=for-the-badge&logoColor=white" /></a>
 [![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 [![GitHub](https://img.shields.io/badge/-alsk1992-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992)
 ![Views](https://komarev.com/ghpvc/?username=alsk1992&color=00f0ff&style=for-the-badge&label=VIEWS)
+
+<img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=alsk1992&data=followers,repositories,stars,commits&theme=darkmode" />
 
 </div>
 
@@ -16,7 +21,7 @@
 
 ### About
 
-I design and ship **autonomous systems** — AI agents, HFT engines, and execution infrastructure that trade, scrape, arbitrage, and operate across chains and platforms without human intervention. Full stack from bare metal Rust low-latency systems to polished React UIs. Specialist in **high-frequency trading**, market making, and building things that make money while I sleep.
+I design and ship **autonomous systems** — AI agents, HFT engines, and execution infrastructure that trade, scrape, arbitrage, and operate across chains and platforms without human intervention. Full stack from bare metal Rust low-latency systems to polished React UIs. Specialist in **high-frequency trading**, market making, **smart contract development**, and building things that make money while I sleep.
 
 **Currently:** Building [CloddsBot](https://github.com/alsk1992/CloddsBot) — open source AI trading terminal operating across Polymarket, Binance, Hyperliquid, Solana DEXs, and 5 EVM chains. 1000+ market integrations, sub-second execution.
 
@@ -41,6 +46,7 @@ I design and ship **autonomous systems** — AI agents, HFT engines, and executi
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge&logo=framer&logoColor=0055FF)
 
 **Backend & APIs**
@@ -49,6 +55,9 @@ I design and ship **autonomous systems** — AI agents, HFT engines, and executi
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=E10098)
 ![WebSocket](https://img.shields.io/badge/WebSocket-000?style=for-the-badge&logo=socketdotio&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-000?style=for-the-badge&logo=trpc&logoColor=2596BE)
+![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma&logoColor=2D3748)
 
 **Data**
 
@@ -67,6 +76,10 @@ I design and ship **autonomous systems** — AI agents, HFT engines, and executi
 ![Ethereum](https://img.shields.io/badge/Ethereum-000?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
 ![Polygon](https://img.shields.io/badge/Polygon-000?style=for-the-badge&logo=polygon&logoColor=7B3FE4)
 ![Anchor](https://img.shields.io/badge/Anchor-000?style=for-the-badge&logo=anchor&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-000?style=for-the-badge&logo=hardhat&logoColor=FFF100)
+![Foundry](https://img.shields.io/badge/Foundry-000?style=for-the-badge&logo=ethereum&logoColor=white)
+![ERC20](https://img.shields.io/badge/ERC--20%20%2F%20721%20%2F%201155-000?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-000?style=for-the-badge&logo=solidity&logoColor=white)
 
 **Infra**
 
@@ -76,6 +89,9 @@ I design and ship **autonomous systems** — AI agents, HFT engines, and executi
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-000?style=for-the-badge&logo=railway&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=844FBA)
 
 **AI / ML**
 
@@ -83,6 +99,9 @@ I design and ship **autonomous systems** — AI agents, HFT engines, and executi
 ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/RAG_Pipelines-000?style=for-the-badge&logo=chainlink&logoColor=375BD2)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
 ---
 
