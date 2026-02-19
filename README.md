@@ -1,13 +1,12 @@
 <div align="center">
 
-# `A L S K`
-### Full Stack Engineer · HFT Specialist · AI Agents · Smart Contracts
+<a href="https://github.com/alsk1992">
+  <img src="header.svg" width="100%" alt="ALSK — Full Stack Engineer · HFT · AI Agents · Smart Contracts" />
+</a>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+autonomous+systems+across+1000%2B+markets;Sub-millisecond+execution.+Zero+human+intervention.;From+signal+to+fill+before+you+blink.)](https://github.com/alsk1992)
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=25&lines=Building+autonomous+systems+across+1000%2B+markets;Sub-millisecond+execution.+Zero+human+intervention.;From+signal+to+fill+before+you+blink.)](https://github.com/alsk1992)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 

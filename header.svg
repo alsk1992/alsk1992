@@ -1,0 +1,209 @@
+<svg fill="none" viewBox="0 0 900 400" width="900" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        .wrapper {
+          width: 100%;
+          height: 400px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background: linear-gradient(135deg, #00f0ff, #00ff88, #a855f7, #00f0ff);
+          background-size: 400% 400%;
+          animation: gradient-shift 8s ease infinite;
+          padding: 4px;
+        }
+
+        .inner {
+          width: 100%;
+          height: 100%;
+          background: #0a0a0f;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+        }
+
+        .grid {
+          position: absolute;
+          top: 0; left: 0; right: 0; bottom: 0;
+          background-image:
+            linear-gradient(rgba(0,240,255,0.04) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(0,240,255,0.04) 1px, transparent 1px);
+          background-size: 40px 40px;
+          z-index: 0;
+        }
+
+        .scanline {
+          position: absolute;
+          top: 0; left: 0; right: 0;
+          height: 4px;
+          background: linear-gradient(90deg, transparent, rgba(0,240,255,0.15), transparent);
+          animation: scan 4s linear infinite;
+          z-index: 1;
+        }
+
+        .content {
+          position: relative;
+          z-index: 2;
+          text-align: center;
+        }
+
+        .name {
+          font-family: 'Courier New', monospace;
+          font-size: 5.5rem;
+          font-weight: 900;
+          letter-spacing: 0.4em;
+          color: #00f0ff;
+          text-shadow: 0 0 40px rgba(0,240,255,0.5), 0 0 80px rgba(0,240,255,0.2);
+          opacity: 0;
+          animation: glitch-in 1.2s cubic-bezier(0.23, 1, 0.32, 1) 0.3s forwards;
+        }
+
+        .role {
+          font-family: 'Courier New', monospace;
+          font-size: 0.85rem;
+          letter-spacing: 0.35em;
+          text-transform: uppercase;
+          color: #6b6b80;
+          margin-top: 16px;
+          opacity: 0;
+          animation: fade-up 0.8s ease 1s forwards;
+        }
+
+        .role span {
+          color: #00ff88;
+        }
+
+        .tags {
+          display: flex;
+          gap: 12px;
+          margin-top: 24px;
+          opacity: 0;
+          animation: fade-up 0.8s ease 1.4s forwards;
+        }
+
+        .tag {
+          font-family: 'Courier New', monospace;
+          font-size: 0.65rem;
+          letter-spacing: 0.15em;
+          text-transform: uppercase;
+          color: #0a0a0f;
+          background: #00f0ff;
+          padding: 4px 12px;
+          border-radius: 2px;
+        }
+
+        .tag.green { background: #00ff88; }
+        .tag.purple { background: #a855f7; }
+
+        .pulse-dot {
+          position: absolute;
+          top: 30px;
+          right: 40px;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          opacity: 0;
+          animation: fade-up 0.8s ease 1.8s forwards;
+        }
+
+        .dot {
+          width: 8px;
+          height: 8px;
+          border-radius: 50%;
+          background: #00ff88;
+          animation: pulse 2s ease-in-out infinite;
+        }
+
+        .pulse-text {
+          font-family: 'Courier New', monospace;
+          font-size: 0.6rem;
+          letter-spacing: 0.2em;
+          text-transform: uppercase;
+          color: #00ff88;
+        }
+
+        .cursor {
+          display: inline-block;
+          width: 3px;
+          height: 1.2em;
+          background: #00f0ff;
+          margin-left: 4px;
+          vertical-align: middle;
+          animation: blink 1s step-end infinite;
+        }
+
+        @keyframes gradient-shift {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+
+        @keyframes scan {
+          0% { top: -4px; }
+          100% { top: 100%; }
+        }
+
+        @keyframes glitch-in {
+          0% { opacity: 0; transform: translateY(20px) skewX(-5deg); filter: blur(8px); }
+          60% { opacity: 1; transform: translateY(-3px) skewX(1deg); filter: blur(0); }
+          80% { transform: translateY(1px) skewX(-0.5deg); }
+          100% { opacity: 1; transform: translateY(0) skewX(0); }
+        }
+
+        @keyframes fade-up {
+          0% { opacity: 0; transform: translateY(12px); }
+          100% { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes pulse {
+          0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(0,255,136,0.4); }
+          50% { opacity: 0.6; box-shadow: 0 0 0 6px rgba(0,255,136,0); }
+        }
+
+        @keyframes blink {
+          50% { opacity: 0; }
+        }
+
+        @media (prefers-reduced-motion) {
+          .wrapper, .scanline, .name, .role, .tags, .pulse-dot, .dot, .cursor {
+            animation: none;
+            opacity: 1;
+          }
+        }
+      </style>
+
+      <div class="wrapper">
+        <div class="inner">
+          <div class="grid"></div>
+          <div class="scanline"></div>
+
+          <div class="pulse-dot">
+            <div class="dot"></div>
+            <span class="pulse-text">Systems Online</span>
+          </div>
+
+          <div class="content">
+            <div class="name">ALSK<span class="cursor"></span></div>
+            <div class="role">
+              Full Stack Engineer <span>·</span> HFT Specialist <span>·</span> AI Agents <span>·</span> Smart Contracts
+            </div>
+            <div class="tags">
+              <span class="tag">RUST</span>
+              <span class="tag green">TYPESCRIPT</span>
+              <span class="tag purple">SOLANA</span>
+              <span class="tag">PYTHON</span>
+              <span class="tag green">REACT</span>
+              <span class="tag purple">EVM</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
