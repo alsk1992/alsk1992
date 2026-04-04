@@ -6,7 +6,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=25&lines=Building+autonomous+systems+across+1000%2B+markets;Sub-millisecond+execution.+Zero+human+intervention.;From+signal+to+fill+before+you+blink.)](https://github.com/alsk1992)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=25&lines=Building+autonomous+systems+across+1000%2B+markets;Sub-millisecond+execution.+Zero+human+intervention.;10%2C700%2B+clones+in+14+days.+Open+source.;From+signal+to+fill+before+you+blink.)](https://github.com/alsk1992)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
@@ -22,7 +22,41 @@
 
 I design and ship **autonomous systems** — AI agents, HFT engines, and execution infrastructure that trade, scrape, arbitrage, and operate across chains and platforms without human intervention. Full stack from bare metal Rust low-latency systems to polished React UIs. Specialist in **high-frequency trading**, market making, **smart contract development**, and building things that make money while I sleep.
 
-**Currently:** Building [CloddsBot](https://github.com/alsk1992/CloddsBot) — open source AI trading terminal operating across Polymarket, Binance, Hyperliquid, Solana DEXs, and 5 EVM chains. 1000+ market integrations, sub-second execution.
+---
+
+### CloddsBot — 10,700+ Clones in 14 Days
+
+<div align="center">
+
+[![CloddsBot](https://img.shields.io/badge/CloddsBot-Live-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992/CloddsBot)
+![Clones](https://img.shields.io/badge/clones%2F14d-10.7k-brightgreen?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=for-the-badge&color=yellow&logo=github)
+![Skills](https://img.shields.io/badge/skills-119%2B-purple?style=for-the-badge)
+![Markets](https://img.shields.io/badge/markets-1000%2B-orange?style=for-the-badge)
+
+</div>
+
+Open source AI trading terminal built on Claude. Autonomous execution across **10 prediction markets**, **7 futures exchanges**, **9 Solana DeFi protocols**, and **5 EVM chains**. 119 skills, 21 messaging channels, sub-second execution from signal to fill.
+
+Built in 12 days for the Colosseum Agent Hackathon on Solana. Went from zero to 10,700+ git clones in two weeks.
+
+<div align="center">
+  <a href="https://github.com/alsk1992/CloddsBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsk1992&repo=CloddsBot&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&icon_color=00f0ff&text_color=e4e4ed&border_color=1e1e30" />
+  </a>
+</div>
+
+**What it does:**
+- Trades across Polymarket, Kalshi, Betfair, Binance, Bybit, Hyperliquid, Jupiter, Raydium, Uniswap, and more
+- Rust HFT engine — 2-6ms to Polymarket CLOB, sub-millisecond order construction
+- 118+ trading strategies including divergence detection, whale tracking, copy trading, arbitrage
+- Risk engine with VaR/CVaR, circuit breakers, Kelly sizing
+- x402 micropayments on Solana — agent-to-agent commerce
+- Token launches via Meteora Dynamic Bonding Curves
+- Agent marketplace + forum for AI-to-AI strategy sharing
+- MCP server exposing all 119 skills to Claude Desktop and Claude Code
+
+**V2 in progress** — pay-per-request trading infrastructure monetised natively through x402 on Solana.
 
 ---
 
@@ -105,13 +139,12 @@ I design and ship **autonomous systems** — AI agents, HFT engines, and executi
 
 ---
 
-### Featured Projects
+### Other Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |---------|------------|------|
-| **[CloddsBot](https://github.com/alsk1992/CloddsBot)** | AI trading terminal — 1000+ market integrations, autonomous execution across Polymarket, Binance, Hyperliquid, Solana DEXs, 5 EVM chains | `Rust` `TypeScript` `Claude API` |
 | **[Flip-God](https://github.com/alsk1992/Flip-God)** | AI e-commerce arbitrage agent — scans Amazon/eBay/Walmart/AliExpress, finds price gaps, auto-lists, handles fulfillment | `TypeScript` `Node.js` `AI` |
 | **[SmartPumpTool](https://github.com/alsk1992/SmartPumpTool)** | Pump.fun launch toolkit — on-chain tooling for Solana token launches | `Rust` `Solana` |
 | **[OREMiner](https://github.com/alsk1992/OREMiner)** | Solana ORE mining bot with custom strategies | `Rust` `Solana` |
