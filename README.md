@@ -29,7 +29,6 @@ Right now I'm deep in **prediction market execution** (2-6ms to Polymarket's ord
 ![Clones](https://img.shields.io/badge/50%2C000%2B-total%20clones-brightgreen?style=for-the-badge&logo=git&logoColor=white)
 ![14d Clones](https://img.shields.io/badge/10%2C000%2B-last%2014%20days-00f0ff?style=for-the-badge&logo=git&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=for-the-badge&color=yellow&logo=github)
-![Forks](https://img.shields.io/github/forks/alsk1992/CloddsBot?style=for-the-badge&color=blue&logo=github)
 
 </div>
 
@@ -123,11 +122,11 @@ Also work with: Tailwind, Vue, GraphQL, WebSocket, tRPC, Prisma, MongoDB, ClickH
 I'm looking for my next role — ideally **Head of Engineering** or **Lead Dev** at a Web3 team building something real. DeFi protocols, trading infrastructure, on-chain systems, AI agents — that's where I'm strongest and where I want to be.
 
 What I've actually built and shipped:
-- **Solana programs** (Anchor + native) and **EVM contracts** (Solidity/Foundry) in production
-- **DeFi integrations** — AMMs, DEX routing, token launches, MEV, on-chain settlement across 9 protocols
-- **Low-latency trading systems** in Rust — sub-6ms execution, exchange connectivity, risk management
-- **Full products end-to-end** — not just the contracts, but the APIs, dashboards, infra, and CI/CD around them
-- **AI agents** that coordinate trades across 1,000+ markets autonomously
+- **Smart contracts across Solana and EVM** — native Solana programs, Anchor, Pinocchio, Solidity with Foundry and Hardhat. Custom program logic, CPIs, PDAs, cross-program invocations, MEV-aware execution
+- **DeFi protocols** — AMMs, DEX aggregation, token launches, on-chain settlement, MEV infrastructure, bonding curves. Integrated across 9+ protocols in production
+- **HFT systems in Rust** — sub-6ms execution, exchange connectivity across 7 CEXs, real-time risk engines, order management systems
+- **Production frontends** — React, Next.js, Three.js, WebGL. 3D assets, interactive web experiences, SEO-optimised landing pages and marketing sites
+- **AI agent systems** — autonomous multi-market trading bots, MCP integrations, RAG pipelines, agent-to-agent commerce
 
 If you're building in Web3 and need someone who can own the technical side from architecture to deployment — let's talk.
 
