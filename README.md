@@ -15,9 +15,9 @@
 
 ### About
 
-Full stack engineer. I mostly build trading infrastructure — the kind that runs 24/7 across chains and exchanges without anyone touching it. Rust for anything latency-sensitive, TypeScript for everything else. On-chain I write Solidity (Foundry/Hardhat) on EVM and native Solana programs with Anchor and Pinocchio.
+Full stack engineer — I build across the entire stack and I go deep at every layer. Rust and Go for low-latency trading systems, Solidity (Foundry/Hardhat) on EVM, native Solana programs with Anchor and Pinocchio, TypeScript/JavaScript for APIs and tooling, React/Next.js/Three.js for frontends and 3D experiences, and Python for training and fine-tuning LLMs.
 
-Right now I'm deep in **prediction market execution** (2-6ms to Polymarket's orderbook), **DeFi protocol integrations** across Solana and EVM, and **AI agent systems** that coordinate trades autonomously. I care about systems that actually work in production, not demos.
+Equally at home in backends (databases, distributed systems, real-time pipelines, exchange connectivity) and frontends (polished UIs, 3D WebGL experiences, SEO-optimised marketing sites). Currently deep in **prediction market execution** (2-6ms to Polymarket's orderbook), **DeFi protocol integrations** across Solana and EVM, and **AI agent systems** that coordinate trades autonomously. I build things that work in production, not demos.
 
 ---
 
