@@ -88,10 +88,10 @@
 
         .stat-label {
           font-family: 'Courier New', monospace;
-          font-size: 0.65rem;
+          font-size: 0.75rem;
           letter-spacing: 0.25em;
           text-transform: uppercase;
-          color: #7a7a90;
+          color: #a0a0b8;
           margin-top: 6px;
         }
 
