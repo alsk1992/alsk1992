@@ -13,6 +13,7 @@
 [![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 [![GitHub](https://img.shields.io/badge/-alsk1992-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992)
 ![Views](https://komarev.com/ghpvc/?username=alsk1992&color=00f0ff&style=for-the-badge&label=VIEWS)
+![Available](https://img.shields.io/badge/Available%20for%20Hire-Web3%20%2F%20DeFi-00f0ff?style=for-the-badge&logo=ethereum&logoColor=white)
 
 </div>
 
@@ -20,7 +21,9 @@
 
 ### About
 
-I design and ship **autonomous systems** — AI agents, HFT engines, and execution infrastructure that trade, scrape, arbitrage, and operate across chains and platforms without human intervention. Full stack from bare metal Rust low-latency systems to polished React UIs. Specialist in **high-frequency trading**, market making, **smart contract development**, and building things that make money while I sleep.
+I design and ship **autonomous systems** — AI agents, HFT engines, and execution infrastructure that trade, scrape, arbitrage, and operate across chains and platforms without human intervention. Full stack from bare metal **Rust low-latency systems** to polished React UIs.
+
+Specialist in **DeFi protocol development**, **high-frequency trading**, **market making**, **smart contract architecture** (Solana + EVM), and building things that make money while I sleep. Deep experience across **Solana**, **Ethereum**, **Polygon**, prediction markets, and CEX/DEX infrastructure.
 
 ---
 
@@ -168,13 +171,41 @@ Open source AI trading terminal I built in 12 days. **50,000+ developers** have 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=alsk1992&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&icon_color=00f0ff&text_color=e4e4ed&border_color=1e1e30&ring_color=00f0ff" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsk1992&layout=compact&langs_count=8&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&text_color=e4e4ed&border_color=1e1e30" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alsk1992&theme=github-dark-blue&background=0a0a0f&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=e4e4ed&sideNums=e4e4ed&dates=555555&border=1e1e30" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alsk1992&theme=github-dark&bg_color=0a0a0f&color=00f0ff&line=00f0ff&point=e4e4ed&area=true&area_color=00f0ff&hide_border=false&custom_title=Contribution%20Graph" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=alsk1992&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" width="100%" />
+
 </div>
 
 ---
 
+### Work With Me
+
 <div align="center">
 
-*Open to collaboration — if you're building something interesting, reach out.*
+![Hire Me](https://img.shields.io/badge/Available-Head%20of%20Engineering-00f0ff?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-Native-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-Specialist-brightgreen?style=for-the-badge&logo=ethereum&logoColor=white)
+![HFT](https://img.shields.io/badge/HFT-Rust%20%2F%20Low%20Latency-FF4438?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
+
+I build **production trading infrastructure** that moves real money. If your Web3 team needs a **Head of Engineering** or **Lead Developer** who can ship from smart contracts to frontend, reach out.
+
+**What I bring to the table:**
+- **Smart contract architecture** — Solana (Anchor/native) + EVM (Solidity/Foundry/Hardhat), audited and battle-tested
+- **DeFi protocol development** — AMMs, lending, staking, token launches, MEV, on-chain settlement
+- **HFT & execution infrastructure** — sub-millisecond Rust engines, exchange connectivity, order management
+- **Full stack delivery** — not just contracts — APIs, dashboards, monitoring, CI/CD, the whole product
+- **AI agent systems** — autonomous trading bots, MCP integrations, RAG pipelines, agent-to-agent commerce
+
+I've shipped systems that handle **1,000+ markets**, process **sub-6ms trades**, and have been **cloned 50,000+ times** by other developers. I don't just write code — I build products that generate revenue.
+
+<div align="center">
+
+**Serious inquiries only. DM me.**
 
 [![Twitter](https://img.shields.io/badge/DM%20me%20on%20𝕏-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 
