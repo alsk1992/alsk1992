@@ -6,7 +6,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=25&lines=Building+autonomous+systems+across+1000%2B+markets;Sub-millisecond+execution.+Zero+human+intervention.;10%2C700%2B+clones+in+14+days.+Open+source.;From+signal+to+fill+before+you+blink.)](https://github.com/alsk1992)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=25&lines=Building+autonomous+systems+across+1000%2B+markets;Sub-millisecond+execution.+Zero+human+intervention.;50%2C000%2B+clones.+Open+source.;From+signal+to+fill+before+you+blink.)](https://github.com/alsk1992)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
@@ -24,27 +24,33 @@ I design and ship **autonomous systems** — AI agents, HFT engines, and executi
 
 ---
 
-### CloddsBot — 10,700+ Clones in 14 Days
+### CloddsBot — 50,000+ Clones Since Launch
 
 <div align="center">
 
 [![CloddsBot](https://img.shields.io/badge/CloddsBot-Live-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992/CloddsBot)
-![Clones](https://img.shields.io/badge/clones%2F14d-10.7k-brightgreen?style=for-the-badge)
+![Clones](https://img.shields.io/badge/50%2C000%2B-total%20clones-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+![14d Clones](https://img.shields.io/badge/10%2C000%2B-last%2014%20days-00f0ff?style=for-the-badge&logo=git&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=for-the-badge&color=yellow&logo=github)
+![Forks](https://img.shields.io/github/forks/alsk1992/CloddsBot?style=for-the-badge&color=blue&logo=github)
 ![Skills](https://img.shields.io/badge/skills-119%2B-purple?style=for-the-badge)
 ![Markets](https://img.shields.io/badge/markets-1000%2B-orange?style=for-the-badge)
 
 </div>
 
-Open source AI trading terminal built on Claude. Autonomous execution across **10 prediction markets**, **7 futures exchanges**, **9 Solana DeFi protocols**, and **5 EVM chains**. 119 skills, 21 messaging channels, sub-second execution from signal to fill.
-
-Built in 12 days for the Colosseum Agent Hackathon on Solana. Went from zero to 10,700+ git clones in two weeks.
+Open source AI trading terminal I built in 12 days. **50,000+ developers** have cloned the repo since launch — **10,000+ in the last 14 days alone**, averaging **700+ clones per day**. Autonomous execution across **10 prediction markets**, **7 futures exchanges**, **9 Solana DeFi protocols**, and **5 EVM chains**. 119 skills, 21 messaging channels, sub-second execution from signal to fill.
 
 <div align="center">
   <a href="https://github.com/alsk1992/CloddsBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsk1992&repo=CloddsBot&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&icon_color=00f0ff&text_color=e4e4ed&border_color=1e1e30" />
   </a>
 </div>
+
+<details>
+<summary><b>GitHub Traffic Proof — 10,700+ clones in 14 days</b></summary>
+<br>
+<img src="https://raw.githubusercontent.com/alsk1992/CloddsBot/main/assets/screenshots/clones-14d.jpeg" width="100%" alt="GitHub Traffic — 10,700+ clones in 14 days" />
+</details>
 
 **What it does:**
 - Trades across Polymarket, Kalshi, Betfair, Binance, Bybit, Hyperliquid, Jupiter, Raydium, Uniswap, and more
