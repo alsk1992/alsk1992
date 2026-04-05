@@ -36,12 +36,6 @@ Open source AI trading terminal. Built the first version in 12 days. **50,000+ c
 
 Trades autonomously across **10 prediction markets**, **7 futures exchanges**, **9 Solana DeFi protocols**, and **5 EVM chains**. 119 execution skills, 21 messaging channels, Rust HFT engine doing 2-6ms round trips.
 
-<div align="center">
-  <a href="https://github.com/alsk1992/CloddsBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsk1992&repo=CloddsBot&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&icon_color=00f0ff&text_color=e4e4ed&border_color=1e1e30" />
-  </a>
-</div>
-
 <details>
 <summary><b>GitHub Traffic — 10,700+ clones in 14 days</b></summary>
 <br>
