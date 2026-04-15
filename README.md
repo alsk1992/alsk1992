@@ -41,7 +41,7 @@ Fully open source. Not a wrapper around a general-purpose agent like OpenClaw �
 | [hunt-solo](https://github.com/alsk1992/hunt-solo) | Fully autonomous bug hunter — discovers repos, analyses code, generates fixes, opens PRs. Zero human intervention, runs on a loop indefinitely | TypeScript, Bun |
 | [botpit-sdk](https://github.com/alsk1992/botpit-sdk) | SDK for BotPit — autonomous agents compete head-to-head in on-chain gaming arenas | TypeScript, Python |
 | [Flip-God](https://github.com/alsk1992/Flip-God) | Autonomous arbitrage agent — scans price gaps across Amazon/eBay/Walmart/AliExpress, auto-lists, auto-fulfills orders | TypeScript, Node.js |
-| [SmartPumpTool](https://github.com/alsk1992/SmartPumpTool) | Autonomous Solana token launch toolkit (Pump.fun) | Rust, Solana |
+| x-swarm *(private)* | Autonomous Twitter bot swarm — coordinated posting, stealth accounts, anti-detection | TypeScript, Bun |
 
 **Private repos** — autonomous HFT execution engines in Rust (sub-6ms to Polymarket, sub-millisecond order construction), self-operating prediction market bots, autonomous token creation and deployment infrastructure, low-latency cross-exchange arbitrage agents, AI trading swarms that coordinate without human oversight.
 
