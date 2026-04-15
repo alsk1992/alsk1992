@@ -2,9 +2,9 @@
 
 # AL
 
-**Full stack engineer — Rust, TypeScript, Solidity, Go, Python**
+**Rust · TypeScript · Solidity · Go · Python**
 
-Building autonomous systems — low-latency trading agents, on-chain infrastructure, and AI that runs unattended.
+Autonomous trading systems, on-chain infrastructure, HFT. Everything ships to production.
 
 [![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 [![GitHub](https://img.shields.io/badge/-alsk1992-000?style=flat-square&logo=github&logoColor=white)](https://github.com/alsk1992)
@@ -22,11 +22,11 @@ Building autonomous systems — low-latency trading agents, on-chain infrastruct
 Autonomous AI trading agent with a Rust HFT core. **50,000+ clones** since launch. Scans for edge, executes, and manages risk across 10 prediction markets, 7 futures exchanges, 9 Solana DeFi protocols, and 5 EVM chains — no human in the loop.
 
 - Rust HFT engine — sub-millisecond order construction, 2-6ms round trip to Polymarket CLOB
-- 119 execution skills — agent decides what to trade, when, and how much
-- Self-managing risk engine with VaR/CVaR, circuit breakers, Kelly sizing
-- Low-latency exchange connectivity across 7 CEXs with fire-and-forget execution
-- x402 micropayments — autonomous agent-to-agent commerce on Solana
-- MCP server — plug into Claude Desktop / Claude Code as an autonomous tool
+- 119 execution skills — agent decides what, when, and how much
+- Risk engine — VaR/CVaR, circuit breakers, Kelly sizing
+- Fire-and-forget execution across 7 CEXs
+- x402 micropayments — agent-to-agent commerce on Solana
+- MCP server for Claude Desktop / Claude Code
 
 <details>
 <summary>GitHub traffic — 10,700+ clones in 14 days</summary>
@@ -74,7 +74,7 @@ Autonomous AI trading agent with a Rust HFT core. **50,000+ clones** since launc
 
 <div align="center">
 
-Looking for my next role — **Head of Engineering** or **Lead Dev** at a Web3 team building something real.
+Open to building with the right team.
 
 [![DM](https://img.shields.io/badge/DM%20on%20𝕏-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 
