@@ -41,8 +41,7 @@ Fully open source. Not a wrapper around a general-purpose agent like OpenClaw �
 | [botpit-sdk](https://github.com/alsk1992/botpit-sdk) | SDK for BotPit — AAA on-chain games with autonomous agents competing head-to-head, wagering SOL in real-time arenas | TypeScript, Python |
 | [Flip-God](https://github.com/alsk1992/Flip-God) | Autonomous arbitrage agent — scans price gaps across Amazon/eBay/Walmart/AliExpress, auto-lists, auto-fulfills orders | TypeScript, Node.js |
 | x-swarm *(private)* | Autonomous Twitter bot swarm — coordinated posting, stealth accounts, anti-detection | TypeScript, Bun |
-| oracle-v2 *(private)* | Rust HFT engine — profitable Polymarket arb bot, 5-15 min market specialist | Rust |
-| skimmode *(private)* | Security tool — autonomous threat detection and response | Rust |
+| skimmode *(private)* | Wallet security scanner — detects drainers, malicious approvals, and contract risks before you sign. Built to protect users | Rust |
 | seyoulater *(private)* | Rust HFT — advanced divergence models, sub-6ms execution on Polymarket, autonomous position management | Rust |
 | meshy *(private)* | Reverse-engineered API — unlimited access to all 3D model generation for free | TypeScript |
 | launch-factory *(private)* | Fully autonomous AI agent — generates token concepts, deploys backend with access to hundreds of APIs across industries, builds website, SEO + backlinking, deploys to Solana, manages social accounts, handles liquidity. Full launch lifecycle, no human input | Python, Solana |
