@@ -6,7 +6,7 @@
 
 I build systems that make money while I sleep.
 
-Rust-first. Sub-millisecond execution. Autonomous agents that trade, dev tokens, and hunt alpha. 50,000+ people cloned my trading agent. Most of what I run stays private.
+Rust-first. Sub-millisecond execution. Autonomous agents that trade, dev tokens, and hunt alpha. Everything on here I built alone. 50,000+ people cloned my trading agent. Most of what I run stays private.
 
 [![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 [![GitHub](https://img.shields.io/badge/-alsk1992-000?style=flat-square&logo=github&logoColor=white)](https://github.com/alsk1992)
@@ -21,7 +21,7 @@ Rust-first. Sub-millisecond execution. Autonomous agents that trade, dev tokens,
 ![Clones](https://img.shields.io/badge/50%2C000%2B-clones-brightgreen?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=flat-square&color=yellow)
 
-Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, Kalshi, Hyperliquid, Binance, Solana DEXs, and every major EVM chain (Ethereum, Base, Polygon, Arbitrum, BSC). 50,000+ clones and growing.
+Solo dev. Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, Kalshi, Hyperliquid, Binance, Solana DEXs, and every major EVM chain (Ethereum, Base, Polygon, Arbitrum, BSC). 50,000+ clones and growing.
 
 Not a wrapper around a general-purpose agent like OpenClaw — this is a purpose-built Rust HFT engine from day one. Sub-millisecond order construction, 2-6ms round trips to Polymarket. 119 execution skills. The agent finds edge, sizes positions, manages risk, and executes — fire-and-forget across 7 CEXs. Ships with an MCP server so Claude can use it as a tool, and x402 for autonomous agent-to-agent payments on Solana.
 
