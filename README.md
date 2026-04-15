@@ -39,10 +39,13 @@ Open source AI trading terminal. **50,000+ clones** since launch. Trades autonom
 
 | Project | Description | Stack |
 |---------|------------|-------|
-| [Flip-God](https://github.com/alsk1992/Flip-God) | AI arbitrage — price gaps across Amazon/eBay/Walmart/AliExpress | TypeScript, Node.js |
-| [SmartPumpTool](https://github.com/alsk1992/SmartPumpTool) | On-chain launch toolkit for Solana (Pump.fun) | Rust, Solana |
-| [OREMiner](https://github.com/alsk1992/OREMiner) | Solana ORE mining bot | Rust, Solana |
-| [MecenasAi](https://github.com/alsk1992/MecenasAi) | AI legal assistant — RAG over 7 Polish legal codes | TypeScript, Ollama |
+| [transfer-hook-policy](https://github.com/alsk1992/transfer-hook-policy) | Contribution to the Pinocchio ecosystem — programmable spending policies via Token-2022 transfer hooks. Per-tx caps, velocity controls, delegated AI agent spending. Zero alloc, ~3,500 CU | Rust, Pinocchio |
+| [hunt-solo](https://github.com/alsk1992/hunt-solo) | Autonomous AI agent that hunts bugs across GitHub repos, generates fixes, and opens PRs — runs fully unattended on a loop | TypeScript, Bun |
+| [botpit-sdk](https://github.com/alsk1992/botpit-sdk) | SDK for BotPit — agent vs agent gaming arena on Solana | TypeScript, Python |
+| [Flip-God](https://github.com/alsk1992/Flip-God) | AI arbitrage agent — finds price gaps across Amazon/eBay/Walmart/AliExpress, auto-lists, handles fulfillment | TypeScript, Node.js |
+| [SmartPumpTool](https://github.com/alsk1992/SmartPumpTool) | On-chain launch toolkit for Solana token launches (Pump.fun) | Rust, Solana |
+
+**Private repos** — HFT execution engines (Rust, sub-6ms Polymarket), prediction market bots, Solana token launch factory (autonomous bundling + distribution), cross-exchange arbitrage systems, AI trading agent swarms.
 
 ---
 
