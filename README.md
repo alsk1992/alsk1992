@@ -26,7 +26,7 @@ Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, 
 Fully open source. Not a wrapper around a general-purpose agent like OpenClaw — Rust where latency matters, TypeScript everywhere else. Sub-millisecond order construction, 2-6ms round trips. 100+ execution skills, fire-and-forget across multiple CEXs. Finds edge, sizes, executes, manages risk — all on its own. MCP server so Claude can use it as a tool. x402 for agent-to-agent payments on Solana. No VC money, no team, just shipping.
 
 <details>
-<summary>10,700+ clones in 14 days</summary>
+<summary>10,700+ clones in 14 days — zero marketing budget</summary>
 <br>
 <img src="https://raw.githubusercontent.com/alsk1992/CloddsBot/main/assets/screenshots/clones-14d.jpeg" width="100%" />
 </details>
