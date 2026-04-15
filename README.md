@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/alsk1992">
-  <img src="header.svg" width="100%" alt="ALSK — Full Stack Engineer · HFT · AI Agents · Smart Contracts" />
+  <img src="header.svg" width="100%" alt="AL —   Automation · HFT · AI Agents · Smart Contracts" />
 </a>
 
 <br><br>
