@@ -44,7 +44,7 @@ Fully open source. Not a wrapper around a general-purpose agent like OpenClaw �
 | oracle-v2 *(private)* | Rust HFT engine — profitable Polymarket arb bot, 5-15 min market specialist | Rust |
 | skimmode *(private)* | Security tool — autonomous threat detection and response | Rust |
 | seyoulater *(private)* | Profitable Rust HFT system — autonomous Polymarket execution | Rust |
-| meshy *(private)* | DeFi yield infrastructure — autonomous fee extraction across protocols | TypeScript |
+| meshy *(private)* | Reverse-engineered API — unlimited access to all 3D model generation for free | TypeScript |
 
 60+ private repos.
 
