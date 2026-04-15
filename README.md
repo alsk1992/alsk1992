@@ -17,9 +17,9 @@ Rust-first. Sub-millisecond execution. Autonomous agents that trade, dev tokens,
 
 ### CloddsBot — if it has odds, it's trading them
 
-[![CloddsBot](https://img.shields.io/badge/CloddsBot-Live-00f0ff?style=flat-square&logo=github&logoColor=white)](https://github.com/alsk1992/CloddsBot)
-![Clones](https://img.shields.io/badge/50%2C000%2B-clones-brightgreen?style=flat-square)
-![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=flat-square&color=yellow)
+[![CloddsBot](https://img.shields.io/badge/CloddsBot-Live-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992/CloddsBot)
+![Clones](https://img.shields.io/badge/50%2C000%2B-clones-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=for-the-badge&color=yellow&logo=github)
 
 Solo dev. Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, Kalshi, Betfair, Hyperliquid, Binance, Solana DEXs, and every major EVM chain (Ethereum, Base, Polygon, Arbitrum, BSC). 50,000+ clones and growing.
 
@@ -51,19 +51,19 @@ Fully open source. Not a wrapper around a general-purpose agent like OpenClaw �
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
-![Solidity](https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity&logoColor=363636)
-![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00ADD8)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
-![Solana](https://img.shields.io/badge/Solana-000?style=flat-square&logo=solana&logoColor=9945FF)
-![Ethereum](https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum&logoColor=3C3C3D)
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=FF4438)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 </div>
 
