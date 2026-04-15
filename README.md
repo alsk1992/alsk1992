@@ -1,133 +1,77 @@
 <div align="center">
 
-<a href="https://github.com/alsk1992">
-  <img src="header.svg" width="100%" alt="AL —   Automation · HFT · AI Agents · Smart Contracts" />
-</a>
+# AL
 
-<br><br>
+**Full stack engineer — Rust, TypeScript, Solidity, Go, Python**
 
-[![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
-[![GitHub](https://img.shields.io/badge/-alsk1992-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992)
+Building low-latency trading systems, DeFi protocols, and AI agents.
+
+[![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
+[![GitHub](https://img.shields.io/badge/-alsk1992-000?style=flat-square&logo=github&logoColor=white)](https://github.com/alsk1992)
 
 </div>
 
 ---
 
-### About
+### CloddsBot
 
-Full stack engineer — I build across the entire stack and I go deep at every layer. Rust and Go for low-latency trading systems, Solidity (Foundry/Hardhat) on EVM, native Solana programs with Anchor and Pinocchio, TypeScript/JavaScript for APIs and tooling, React/Next.js/Three.js for frontends and 3D experiences, and Python for training and fine-tuning LLMs.
+[![CloddsBot](https://img.shields.io/badge/CloddsBot-Live-00f0ff?style=flat-square&logo=github&logoColor=white)](https://github.com/alsk1992/CloddsBot)
+![Clones](https://img.shields.io/badge/50%2C000%2B-clones-brightgreen?style=flat-square)
+![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=flat-square&color=yellow)
 
-Equally at home in backends (databases, distributed systems, real-time pipelines, exchange connectivity) and frontends (polished UIs, 3D WebGL experiences, SEO-optimised marketing sites). Currently deep in **prediction market execution** (2-6ms to Polymarket's orderbook), **DeFi protocol integrations** across Solana and EVM, and **AI agent systems** that coordinate trades autonomously. I build things that work in production, not demos.
+Open source AI trading terminal. **50,000+ clones** since launch. Trades autonomously across 10 prediction markets, 7 futures exchanges, 9 Solana DeFi protocols, and 5 EVM chains.
 
----
-
-### CloddsBot — 50,000+ Clones
-
-<div align="center">
-
-[![CloddsBot](https://img.shields.io/badge/CloddsBot-Live-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992/CloddsBot)
-![Clones](https://img.shields.io/badge/50%2C000%2B-total%20clones-brightgreen?style=for-the-badge&logo=git&logoColor=white)
-![14d Clones](https://img.shields.io/badge/10%2C000%2B-last%2014%20days-00f0ff?style=for-the-badge&logo=git&logoColor=white)
-![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=for-the-badge&color=yellow&logo=github)
-
-</div>
-
-Open source AI trading terminal. Built the first version in 12 days. **50,000+ clones** since launch, **10,000+ in the last 14 days**.
-
-Trades autonomously across **10 prediction markets**, **7 futures exchanges**, **9 Solana DeFi protocols**, and **5 EVM chains**. 119 execution skills, 21 messaging channels, Rust HFT engine doing 2-6ms round trips.
+- Rust HFT engine — 2-6ms to Polymarket CLOB
+- 119 execution skills, 21 messaging channels
+- Risk engine with VaR/CVaR, circuit breakers, Kelly sizing
+- x402 micropayments — agent-to-agent commerce on Solana
+- MCP server exposing all skills to Claude Desktop / Claude Code
 
 <details>
-<summary><b>GitHub Traffic — 10,700+ clones in 14 days</b></summary>
+<summary>GitHub traffic — 10,700+ clones in 14 days</summary>
 <br>
-<img src="https://raw.githubusercontent.com/alsk1992/CloddsBot/main/assets/screenshots/clones-14d.jpeg" width="100%" alt="GitHub Traffic — 10,700+ clones in 14 days" />
+<img src="https://raw.githubusercontent.com/alsk1992/CloddsBot/main/assets/screenshots/clones-14d.jpeg" width="100%" />
 </details>
-
-**Highlights:**
-- Rust HFT engine — sub-millisecond order construction, 2-6ms to Polymarket CLOB
-- 118+ strategies — divergence, whale tracking, copy trading, cross-market arbitrage
-- Risk engine with VaR/CVaR, circuit breakers, Kelly sizing
-- x402 micropayments on Solana — agent-to-agent commerce
-- Token launches via Meteora Dynamic Bonding Curves
-- MCP server exposing all 119 skills to Claude Desktop and Claude Code
-
-**V2 in progress** — pay-per-request execution infrastructure, monetised through x402 on Solana.
-
----
-
-### Core Stack
-
-<div align="center">
-
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Solidity](https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity&logoColor=363636)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go&logoColor=00ADD8)
-
-![Solana](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=solana&logoColor=9945FF)
-![Ethereum](https://img.shields.io/badge/Ethereum-000?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
-![Anchor](https://img.shields.io/badge/Anchor-000?style=for-the-badge&logo=anchor&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-000?style=for-the-badge&logo=ethereum&logoColor=white)
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=FF4438)
-
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-</div>
-
-Also work with: Tailwind, Vue, GraphQL, WebSocket, tRPC, Prisma, MongoDB, ClickHouse, TimescaleDB, Supabase, Kubernetes, Terraform, Hardhat, ERC-20/721/1155, Claude API, LangChain, RAG pipelines.
 
 ---
 
 ### Other Projects
 
+| Project | Description | Stack |
+|---------|------------|-------|
+| [Flip-God](https://github.com/alsk1992/Flip-God) | AI arbitrage — price gaps across Amazon/eBay/Walmart/AliExpress | TypeScript, Node.js |
+| [SmartPumpTool](https://github.com/alsk1992/SmartPumpTool) | On-chain launch toolkit for Solana (Pump.fun) | Rust, Solana |
+| [OREMiner](https://github.com/alsk1992/OREMiner) | Solana ORE mining bot | Rust, Solana |
+| [MecenasAi](https://github.com/alsk1992/MecenasAi) | AI legal assistant — RAG over 7 Polish legal codes | TypeScript, Ollama |
+
+---
+
+### Stack
+
 <div align="center">
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| **[Flip-God](https://github.com/alsk1992/Flip-God)** | AI arbitrage agent — finds price gaps across Amazon/eBay/Walmart/AliExpress, auto-lists, handles fulfillment | `TypeScript` `Node.js` `AI` |
-| **[SmartPumpTool](https://github.com/alsk1992/SmartPumpTool)** | On-chain launch toolkit for Solana token launches (Pump.fun) | `Rust` `Solana` |
-| **[OREMiner](https://github.com/alsk1992/OREMiner)** | Solana ORE mining bot with custom strategies | `Rust` `Solana` |
-| **[MecenasAi](https://github.com/alsk1992/MecenasAi)** | AI legal assistant — RAG over 7 Polish legal codes, 5,549 articles, court doc drafting | `TypeScript` `Ollama` `RAG` |
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Solidity](https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity&logoColor=363636)
+![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
+![Solana](https://img.shields.io/badge/Solana-000?style=flat-square&logo=solana&logoColor=9945FF)
+![Ethereum](https://img.shields.io/badge/Ethereum-000?style=flat-square&logo=ethereum&logoColor=3C3C3D)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=FF4438)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 
 </div>
 
 ---
 
-### GitHub
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=alsk1992&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&icon_color=00f0ff&text_color=e4e4ed&border_color=1e1e30&ring_color=00f0ff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsk1992&layout=compact&langs_count=8&theme=github_dark&bg_color=0a0a0f&title_color=00f0ff&text_color=e4e4ed&border_color=1e1e30" />
+Looking for my next role — **Head of Engineering** or **Lead Dev** at a Web3 team building something real.
 
-</div>
-
----
-
-### Work With Me
-
-I'm looking for my next role — ideally **Head of Engineering** or **Lead Dev** at a Web3 team building something real. DeFi protocols, trading infrastructure, on-chain systems, AI agents — that's where I'm strongest and where I want to be.
-
-What I've actually built and shipped:
-- **Smart contracts across Solana and EVM** — native Solana programs, Anchor, Pinocchio, Solidity with Foundry and Hardhat. Custom program logic, CPIs, PDAs, cross-program invocations, MEV-aware execution
-- **DeFi protocols** — AMMs, DEX aggregation, token launches, on-chain settlement, MEV infrastructure, bonding curves. Integrated across 9+ protocols in production
-- **HFT systems in Rust** — sub-6ms execution, exchange connectivity across 7 CEXs, real-time risk engines, order management systems
-- **Production frontends** — React, Next.js, Three.js, WebGL. 3D assets, interactive web experiences, SEO-optimised landing pages and marketing sites
-- **AI agent systems** — autonomous multi-market trading bots, MCP integrations, RAG pipelines, agent-to-agent commerce
-
-If you're building in Web3 and need someone who can own the technical side from architecture to deployment — let's talk.
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/DM%20on%20𝕏-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00f0ff&height=100&section=footer" width="100%" />
+[![DM](https://img.shields.io/badge/DM%20on%20𝕏-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 
 </div>
