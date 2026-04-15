@@ -23,7 +23,7 @@ Rust-first. Sub-millisecond execution. Autonomous agents that trade, dev tokens,
 
 Solo dev. Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, Kalshi, Betfair, Hyperliquid, Binance, Solana DEXs, and every major EVM chain (Ethereum, Base, Polygon, Arbitrum, BSC). 50,000+ clones and growing.
 
-Not a wrapper around a general-purpose agent like OpenClaw — this is a purpose-built Rust HFT engine from day one. Sub-millisecond order construction, 2-6ms round trips to Polymarket. 119 execution skills. The agent finds edge, sizes positions, manages risk, and executes — fire-and-forget across 7 CEXs. Ships with an MCP server so Claude can use it as a tool, and x402 for autonomous agent-to-agent payments on Solana.
+Fully open source. Not a wrapper around a general-purpose agent like OpenClaw — purpose-built Rust HFT engine from day one. Sub-millisecond order construction, 2-6ms round trips to Polymarket. 119 execution skills, fire-and-forget across 7 CEXs. Finds edge, sizes, executes, manages risk — all on its own. MCP server so Claude can use it as a tool. x402 for agent-to-agent payments on Solana. No VC money, no team, just shipping.
 
 <details>
 <summary>10,700+ clones in 14 days</summary>
