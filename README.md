@@ -46,6 +46,8 @@ Fully open source. Not a wrapper around a general-purpose agent like OpenClaw �
 | seyoulater *(private)* | Rust HFT — advanced divergence models, sub-6ms execution on Polymarket, autonomous position management | Rust |
 | meshy *(private)* | Reverse-engineered API — unlimited access to all 3D model generation for free | TypeScript |
 
+| launch-factory *(private)* | Fully autonomous AI agent — generates token concepts, creates metadata, deploys to Solana, manages liquidity. End-to-end, no human input | Python, Solana |
+
 60+ private repos.
 
 ---
