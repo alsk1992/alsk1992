@@ -4,7 +4,7 @@
 
 **Full stack engineer — Rust, TypeScript, Solidity, Go, Python**
 
-Building low-latency trading systems, DeFi protocols, and AI agents.
+Building autonomous systems — low-latency trading agents, on-chain infrastructure, and AI that runs unattended.
 
 [![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 [![GitHub](https://img.shields.io/badge/-alsk1992-000?style=flat-square&logo=github&logoColor=white)](https://github.com/alsk1992)
@@ -19,13 +19,14 @@ Building low-latency trading systems, DeFi protocols, and AI agents.
 ![Clones](https://img.shields.io/badge/50%2C000%2B-clones-brightgreen?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=flat-square&color=yellow)
 
-Open source AI trading terminal. **50,000+ clones** since launch. Trades autonomously across 10 prediction markets, 7 futures exchanges, 9 Solana DeFi protocols, and 5 EVM chains.
+Autonomous AI trading agent with a Rust HFT core. **50,000+ clones** since launch. Scans for edge, executes, and manages risk across 10 prediction markets, 7 futures exchanges, 9 Solana DeFi protocols, and 5 EVM chains — no human in the loop.
 
-- Rust HFT engine — 2-6ms to Polymarket CLOB
-- 119 execution skills, 21 messaging channels
-- Risk engine with VaR/CVaR, circuit breakers, Kelly sizing
-- x402 micropayments — agent-to-agent commerce on Solana
-- MCP server exposing all skills to Claude Desktop / Claude Code
+- Rust HFT engine — sub-millisecond order construction, 2-6ms round trip to Polymarket CLOB
+- 119 execution skills — agent decides what to trade, when, and how much
+- Self-managing risk engine with VaR/CVaR, circuit breakers, Kelly sizing
+- Low-latency exchange connectivity across 7 CEXs with fire-and-forget execution
+- x402 micropayments — autonomous agent-to-agent commerce on Solana
+- MCP server — plug into Claude Desktop / Claude Code as an autonomous tool
 
 <details>
 <summary>GitHub traffic — 10,700+ clones in 14 days</summary>
@@ -39,13 +40,13 @@ Open source AI trading terminal. **50,000+ clones** since launch. Trades autonom
 
 | Project | Description | Stack |
 |---------|------------|-------|
-| [transfer-hook-policy](https://github.com/alsk1992/transfer-hook-policy) | Contribution to the Pinocchio ecosystem — programmable spending policies via Token-2022 transfer hooks. Per-tx caps, velocity controls, delegated AI agent spending. Zero alloc, ~3,500 CU | Rust, Pinocchio |
-| [hunt-solo](https://github.com/alsk1992/hunt-solo) | Autonomous AI agent that hunts bugs across GitHub repos, generates fixes, and opens PRs — runs fully unattended on a loop | TypeScript, Bun |
-| [botpit-sdk](https://github.com/alsk1992/botpit-sdk) | SDK for BotPit — agent vs agent gaming arena on Solana | TypeScript, Python |
-| [Flip-God](https://github.com/alsk1992/Flip-God) | AI arbitrage agent — finds price gaps across Amazon/eBay/Walmart/AliExpress, auto-lists, handles fulfillment | TypeScript, Node.js |
-| [SmartPumpTool](https://github.com/alsk1992/SmartPumpTool) | On-chain launch toolkit for Solana token launches (Pump.fun) | Rust, Solana |
+| [transfer-hook-policy](https://github.com/alsk1992/transfer-hook-policy) | Contribution to the Pinocchio ecosystem — programmable spending policies for Token-2022. Enables autonomous agent wallets with hard spending caps they can't exceed. Zero alloc, ~3,500 CU | Rust, Pinocchio |
+| [hunt-solo](https://github.com/alsk1992/hunt-solo) | Fully autonomous bug hunter — discovers repos, analyses code, generates fixes, opens PRs. Zero human intervention, runs on a loop indefinitely | TypeScript, Bun |
+| [botpit-sdk](https://github.com/alsk1992/botpit-sdk) | SDK for BotPit — autonomous agents compete head-to-head in on-chain gaming arenas | TypeScript, Python |
+| [Flip-God](https://github.com/alsk1992/Flip-God) | Autonomous arbitrage agent — scans price gaps across Amazon/eBay/Walmart/AliExpress, auto-lists, auto-fulfills orders | TypeScript, Node.js |
+| [SmartPumpTool](https://github.com/alsk1992/SmartPumpTool) | Autonomous Solana token launch toolkit (Pump.fun) | Rust, Solana |
 
-**Private repos** — HFT execution engines (Rust, sub-6ms Polymarket), prediction market bots, autonomous token creation and deployment infrastructure, cross-exchange arbitrage systems, AI trading agent swarms.
+**Private repos** — autonomous HFT execution engines in Rust (sub-6ms to Polymarket, sub-millisecond order construction), self-operating prediction market bots, autonomous token creation and deployment infrastructure, low-latency cross-exchange arbitrage agents, AI trading swarms that coordinate without human oversight.
 
 ---
 
