@@ -2,9 +2,9 @@
 
 # AL
 
-**Rust · TypeScript · Solidity · Go · Python**
+I build systems that make money while I sleep.
 
-Autonomous trading systems, on-chain infrastructure, HFT. Everything ships to production.
+Rust-first. Sub-millisecond execution. Autonomous agents that trade, launch tokens, and hunt alpha across chains — no dashboards, no babysitting. 50,000+ people cloned my trading agent. Most of what I run stays private.
 
 [![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 [![GitHub](https://img.shields.io/badge/-alsk1992-000?style=flat-square&logo=github&logoColor=white)](https://github.com/alsk1992)
