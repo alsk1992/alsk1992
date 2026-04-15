@@ -6,7 +6,7 @@
 
 I build systems that make money while I sleep.
 
-Rust-first. Sub-millisecond execution. Autonomous agents that trade, dev tokens, and hunt alpha — no dashboards, no babysitting. 50,000+ people cloned my trading agent. Most of what I run stays private.
+Rust-first. Sub-millisecond execution. Autonomous agents that trade, dev tokens, and hunt alpha. 50,000+ people cloned my trading agent. Most of what I run stays private.
 
 [![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
 [![GitHub](https://img.shields.io/badge/-alsk1992-000?style=flat-square&logo=github&logoColor=white)](https://github.com/alsk1992)
