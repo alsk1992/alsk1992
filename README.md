@@ -22,7 +22,7 @@ Rust-first. Sub-millisecond execution. Autonomous agents that trade, dev tokens,
 ![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=for-the-badge&color=yellow&logo=github)
 
 Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, Kalshi, Betfair, Hyperliquid, Binance, Solana DEXs, and every major EVM chain (Ethereum, Base, Polygon, Arbitrum, BSC).
-Fully open source. Not a wrapper around a general-purpose agent like OpenClaw — Rust where latency matters, TypeScript everywhere else. Sub-millisecond order construction, 2-6ms round trips. 100+ execution skills, fire-and-forget across multiple CEXs. Finds edge, sizes, executes, manages risk — all on its own. MCP server so Claude can use it as a tool. x402 for agent-to-agent payments on Solana. No VC money, no team, just shipping.
+Fully open source. Not a wrapper around a general-purpose agent like OpenClaw — Rust where latency matters, TypeScript everywhere else. Sub-millisecond order construction, 2-6ms round trips. 100+ execution skills, fire-and-forget across multiple CEXs. Finds edge, sizes, executes, manages risk — all on its own. MCP server so Claude can use it as a tool. x402 for agent-to-agent payments on Solana. Solo dev.
 
 <details>
 <summary>10,700+ clones in 14 days — zero marketing budget</summary>
