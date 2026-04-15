@@ -45,7 +45,7 @@ Open source AI trading terminal. **50,000+ clones** since launch. Trades autonom
 | [Flip-God](https://github.com/alsk1992/Flip-God) | AI arbitrage agent — finds price gaps across Amazon/eBay/Walmart/AliExpress, auto-lists, handles fulfillment | TypeScript, Node.js |
 | [SmartPumpTool](https://github.com/alsk1992/SmartPumpTool) | On-chain launch toolkit for Solana token launches (Pump.fun) | Rust, Solana |
 
-**Private repos** — HFT execution engines (Rust, sub-6ms Polymarket), prediction market bots, Solana token launch factory (autonomous bundling + distribution), cross-exchange arbitrage systems, AI trading agent swarms.
+**Private repos** — HFT execution engines (Rust, sub-6ms Polymarket), prediction market bots, autonomous token creation and deployment infrastructure, cross-exchange arbitrage systems, AI trading agent swarms.
 
 ---
 
