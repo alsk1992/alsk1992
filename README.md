@@ -43,7 +43,7 @@ Fully open source. Not a wrapper around a general-purpose agent like OpenClaw �
 | x-swarm *(private)* | Autonomous Twitter bot swarm — coordinated posting, stealth accounts, anti-detection | TypeScript, Bun |
 | oracle-v2 *(private)* | Rust HFT engine — profitable Polymarket arb bot, 5-15 min market specialist | Rust |
 | skimmode *(private)* | Security tool — autonomous threat detection and response | Rust |
-| seyoulater *(private)* | Profitable Rust HFT system — autonomous Polymarket execution | Rust |
+| seyoulater *(private)* | Rust HFT — advanced divergence models, sub-6ms execution on Polymarket, autonomous position management | Rust |
 | meshy *(private)* | Reverse-engineered API — unlimited access to all 3D model generation for free | TypeScript |
 
 60+ private repos.
