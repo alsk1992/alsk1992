@@ -71,6 +71,8 @@ Fully open source. Not a wrapper around a general-purpose agent like OpenClaw �
 
 <div align="center">
 
+BSc International Business & Marketing — Russell Group university. Hackathon winner. Enterprise scholarship.
+
 Open to building with the right team.
 
 [![DM](https://img.shields.io/badge/DM%20on%20𝕏-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
