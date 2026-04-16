@@ -39,12 +39,10 @@ Fully open source. Not a wrapper around a general-purpose agent like OpenClaw �
 | [transfer-hook-policy](https://github.com/alsk1992/transfer-hook-policy) | Contribution to the Pinocchio ecosystem — programmable spending policies for Token-2022. Enables autonomous agent wallets with hard spending caps they can't exceed. Zero alloc, ~3,500 CU | Rust, Pinocchio |
 | [hunt-solo](https://github.com/alsk1992/hunt-solo) | Fully autonomous bug hunter — discovers repos, analyses code, generates fixes, opens PRs. Zero human intervention, runs on a loop indefinitely | TypeScript, Bun |
 | [botpit-sdk](https://github.com/alsk1992/botpit-sdk) | SDK for BotPit — AAA on-chain games with autonomous agents competing head-to-head, wagering SOL in real-time arenas | TypeScript, Python |
-| [Flip-God](https://github.com/alsk1992/Flip-God) | Autonomous arbitrage agent — scans price gaps across Amazon/eBay/Walmart/AliExpress, auto-lists, auto-fulfills orders | TypeScript, Node.js |
-| x-swarm *(private)* | Autonomous Twitter bot swarm — coordinated posting, stealth accounts, anti-detection | TypeScript, Bun |
+| launch-factory *(private)* | Fully autonomous AI agent — generates token concepts, deploys backend with access to hundreds of APIs across industries, builds website, SEO + backlinking, deploys to Solana, manages social accounts, handles liquidity. Full launch lifecycle, no human input | Python, Solana |
 | skimmode *(private)* | Wallet security scanner — detects drainers, malicious approvals, and contract risks before you sign. Built to protect users | Rust |
 | seyoulater *(private)* | Rust HFT — advanced divergence models, sub-6ms execution on Polymarket, autonomous position management | Rust |
 | meshy *(private)* | Reverse-engineered API — unlimited access to all 3D model generation for free | TypeScript |
-| launch-factory *(private)* | Fully autonomous AI agent — generates token concepts, deploys backend with access to hundreds of APIs across industries, builds website, SEO + backlinking, deploys to Solana, manages social accounts, handles liquidity. Full launch lifecycle, no human input | Python, Solana |
 
 60+ private repos.
 
