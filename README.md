@@ -25,7 +25,7 @@ Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, 
 
 Fully open source. Not a wrapper around a general-purpose agent like OpenClaw — Rust where latency matters, TypeScript everywhere else. Sub-millisecond order construction, 2-6ms round trips. 100+ execution skills, fire-and-forget across multiple CEXs.
 
-Finds edge, sizes, executes, manages risk — all on its own. MCP server so Claude can use it as a tool. x402 for agent-to-agent payments on Solana. Solo dev.
+Finds edge, sizes, executes, manages risk — all on its own. MCP server so Claude can use it as a tool. x402 for agent-to-agent payments on Solana. My first and only open source agent — everything else stays private. Solo dev.
 
 <details>
 <summary>10,700+ clones in 14 days — zero marketing budget</summary>
