@@ -35,28 +35,6 @@ Finds edge, sizes, executes, manages risk — all on its own. MCP server so Clau
 
 ---
 
-### Portfolio
-
-| Project | Description | Stack |
-|---------|------------|-------|
-| [transfer-hook-policy](https://github.com/alsk1992/transfer-hook-policy) | Contribution to the Pinocchio ecosystem — programmable spending policies for Token-2022. Enables autonomous agent wallets with hard spending caps they can't exceed. Zero alloc, ~3,500 CU | Rust, Pinocchio |
-| [hunt-solo](https://github.com/alsk1992/hunt-solo) | Fully autonomous bug hunter — discovers repos, analyses code, generates fixes, opens PRs. Zero human intervention, runs on a loop indefinitely | TypeScript, Bun |
-| [botpit-sdk](https://github.com/alsk1992/botpit-sdk) | SDK for BotPit — AAA on-chain games with autonomous agents competing head-to-head, wagering SOL and USDC in real-time arenas | TypeScript, Python |
-| launch-factory *(private)* | Fully autonomous AI agent — generates token concepts, deploys backend with access to hundreds of APIs across industries, builds website, SEO + backlinking, deploys to Solana, manages social accounts, handles liquidity. Full launch lifecycle, no human input | Python, Solana |
-| skimmode *(private)* | Wallet security scanner — detects drainers, malicious approvals, and contract risks before you sign. Built to protect users | Rust |
-| seyoulater *(private)* | Rust HFT — advanced divergence models, sub-6ms execution on Polymarket, autonomous position management | Rust |
-| meshy *(private)* | Reverse-engineered API — unlimited access to all 3D model generation for free | TypeScript |
-
-60+ private repos.
-
----
-
-### 3D / Game Dev
-
-On-chain skill-based gaming on Solana — wagering, matchmaking, real-time multiplayer. 3D assets and interactive experiences built in Blender and Three.js, rendered with WebGL. Full stack from smart contracts to the frontend.
-
----
-
 ### Stack
 
 <div align="center">
