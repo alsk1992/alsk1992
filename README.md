@@ -23,7 +23,7 @@ Rust-first. Sub-millisecond execution. Autonomous agents that trade, dev tokens,
 
 Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, Kalshi, Betfair, Hyperliquid, Binance, Solana DEXs, and every major EVM chain (Ethereum, Base, Polygon, Arbitrum, BSC).
 
-My first and only open source agent — everything else stays private. Solo dev.
+My first and only open source agent — everything else stays private. 
 
 <details>
 <summary>10,700+ clones in 14 days — zero marketing budget</summary>
