@@ -38,6 +38,5 @@ My first and only open source agent — everything else stays private.
 
 BSc International Business & Marketing — Russell Group university. Hackathon winner. Enterprise scholarship.
 
-Building Solanas Deepest Orderbook @ stratabook.app
 
 </div>
