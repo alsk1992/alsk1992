@@ -19,8 +19,6 @@ Everything on here I built alone. 150,000+ people cloned my only open source age
 
 ### CloddsBot — if it has odds, it's trading them
 
-[![CloddsBot](https://img.shields.io/badge/CloddsBot-Live-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992/CloddsBot)
-![Clones](https://img.shields.io/badge/50%2C000%2B-clones-brightgreen?style=for-the-badge&logo=git&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=for-the-badge&color=yellow&logo=github)
 
 Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, Kalshi, Betfair, Hyperliquid, Binance, Solana DEXs, and every major EVM chain (Ethereum, Base, Polygon, Arbitrum, BSC).
