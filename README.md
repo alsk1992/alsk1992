@@ -21,7 +21,7 @@ Everything on here I built alone. 150,000+ people cloned my only open source age
 
 ![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=for-the-badge&color=yellow&logo=github)
 
-Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, Kalshi, Betfair, Hyperliquid, Binance, Solana DEXs, and every major EVM chain (Ethereum, Base, Polygon, Arbitrum, BSC).
+Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, Kalshi, Betfair, Hyperliquid, Binance, Solana DEXs, RobinHood Chain and every other major EVM chain (Ethereum, Base, Polygon, Arbitrum, BSC).
 
 My first and only open source agent — everything else stays private. 
 
