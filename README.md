@@ -26,7 +26,7 @@ Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, 
 My first and only open source agent — everything else stays private. 
 
 <details>
-<summary>10,700+ clones in 14 days — zero marketing budget</summary>
+<summary>10,700+ clones in 14 days, 150,000+ Total Clones — zero marketing budget</summary>
 <br>
 <img src="https://raw.githubusercontent.com/alsk1992/CloddsBot/main/assets/screenshots/clones-14d.jpeg" width="100%" />
 </details>
