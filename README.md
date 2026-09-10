@@ -21,6 +21,8 @@ Everything on here I built alone. 150,000+ people cloned my only open source age
 
 ![Stars](https://img.shields.io/github/stars/alsk1992/CloddsBot?style=for-the-badge&color=yellow&logo=github)
 
+<a href="https://trendshift.io/repositories/24896?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-24896" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/24896" alt="alsk1992%2FCloddsBot | Trendshift" width="250" height="55"></a>
+
 Built in 12 days. Trades autonomously across **1,000+ markets** — Polymarket, Kalshi, Betfair, Hyperliquid, Binance, Solana DEXs, Robinhood Chain and every other major EVM chain (Ethereum, Base, Polygon, Arbitrum, BSC).
 
 My first and only open source agent — everything else stays private. 
