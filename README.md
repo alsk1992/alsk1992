@@ -10,7 +10,7 @@ Rust-first. Sub-millisecond execution. Autonomous agents.
 Everything on here I built alone. 150,000+ people cloned my only open source agent. Most of what I run stays private.
 
 [![Twitter](https://img.shields.io/badge/-%406to7Figs-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/6to7Figs)
-[![GitHub](https://img.shields.io/badge/-alsk1992-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsk1992)
+
 
 
 </div>
